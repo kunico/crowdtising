@@ -62,9 +62,19 @@ Técnicamente, el sistema está diseñado así:
 
 ## ¿Quién Anuncia en Hashme?
 
-El Converter
-El Anunciante
-El Padrino
+### El Convertidor
+
+El Convertidor mide el éxito de sus campañas de anuncios basado en los números. Están muy interesados en ver la mayor cantidad de conversiones en su sitio web (registros, trials, newsletters, etc) por el menor costo posible. Este es el tipo de anunciante más común. Trabajan 
+
+Este es el tipo de anunciante más común. Trabajan con presupuestos ajustados y quieren demostrar que pueden obtener un rendimiento positivo de su inversión en publicidad (ROAS). La mayoría de los convertidores son pequeñas y medianas empresas que desean crecer y destacarse entre sus competidores.
+
+### El Anunciante
+
+Mide el éxito de sus campañas de anuncios principalmente generando conocimiento de la marca. Su objetivo no es tanto obtener conversiones directas de sus ubicaciones publicitarias, sino más bien asegurarse de que las personas sepan quiénes son, qué proporcionan y qué piensan de ellos cuando llegue el momento de tomar una decisión de compra. Mayormente son grandes compañías con un presupuesta grande.
+
+### El Gestor
+
+No considera las conversiones o el conocimiento de la marca como el objetivo principal. Su objetivo principal es estar realmente en-linea con sustentar proyectos sociales. Su deseo es brindar financiamiento a los proyectos culturales de la comunidad con muy poca importancia puesta en conocimiento de la marca o las conversiones. En mi experiencia con este tipo de grupos, he encontrado que por lo general son artistas. Entienden los problemas al rededor de la sostenibilidad de la gestión cultural y quieren ayudar es su principal objetivo.
 
 Ayudamos a que sus proyectos culturales favoritos prosperen pagando a los gestores la mayoría de todos los ingresos generados.
 
