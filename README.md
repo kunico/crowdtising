@@ -6,7 +6,7 @@ Por medio de Hashme Ads los gestores culturales, creadores digitales y otros con
 
 # Crowdtising
 
-## Porqué:
+## Por qué:
 
 Hemos adoptado la metodologías de “Marketing Ético” de ReadTheDocs y CodeFoundAd.
 
