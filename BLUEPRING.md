@@ -1,7 +1,7 @@
 FORMAT: 1A9
 HOST: api.crowdtising.org
 
-# CrowdTising Ads
+# CrowdTising Social Ads
 
 # Advertisement HTML [/properties/{property_id}/funder.html/?{template}{theme}{keywords}]
 
