@@ -55,10 +55,10 @@ Funcionalmente, la app tiene  has varias características clave:
 
 Técnicamente, el sistema está diseñado así:
 
-Web3 La principal fuente de confianza para el sistema es Ethereum blockchain. Echa un vistazo a los contratos inteligentes.
-Web2 Esta parte de la app está construida con -----, y un puñado de otras herramientas que son comunes en el ecosistema web2.
-Web 3 Bridge Este es el puente entre web3 y el resto de la aplicación. Mayormente está constrido sobre javascript(web3js) and python(web3py).
-Brochureware Solo una bonita y pequeña página de destino que le dice a la gente qué es el proyecto.
+* Web3 La principal fuente de confianza para el sistema es Ethereum blockchain. Echa un vistazo a los contratos inteligentes.
+* Web2 Esta parte de la app está construida con -----, y un puñado de otras herramientas que son comunes en el ecosistema web2.
+* Web 3 Bridge Este es el puente entre web3 y el resto de la aplicación. Mayormente está constrido sobre javascript(web3js) and python(web3py).
+* Brochureware Solo una bonita y pequeña página de destino que le dice a la gente qué es el proyecto.
 
 ## ¿Quién Anuncia en Hashme?
 
