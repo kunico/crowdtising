@@ -73,7 +73,7 @@ Cada plantilla usa un anuncio publicitario que sigue las siguientes pautas:
 * La imagen del banner no puede ser animada.
 * Recomendamos el uso de 👋 emoji´s cuando tiene sentido, pero no lo use en exceso.
 
-Somos desarrolladores de software en primer lugar. Le ayudaremos a elaborar un mensaje que resuene con la comunidad de desarrolladores si es necesario.
+Somos [creadores|pomotores|gestores|culturales-y/o-digitales] sociales en primer lugar. Le ayudaremos a elaborar un mensaje que resuene con la comunidad si es necesario.
 
 ## Ejemplos de anuncios publicitarios
 
