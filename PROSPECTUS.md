@@ -12,7 +12,7 @@ Nuestra plataforma sigue las guias de [publicidad ética / ethical advertising](
 
 ## Precios
 
-Nuestro modelo de precios está basado en costo por mil (cost per mille - eCPM). Las campañas pueden ser desglosadas en tres diferentes niveles de precios, basado en la audiencia (tageting) especificada. Los descuentos están disponibles para compradores a largo plazo (3+ meses).
+Nuestro modelo de precios está basado en costo por mil (cost per mille - eCPM). Las campañas pueden ser desglosadas en tres diferentes niveles de precios, basado en la audiencia (targeting) especificada. Los descuentos están disponibles para compradores a largo plazo (3+ meses).
 
 * $4.00 eCPM para Norte América.
 * $3.00 eCPM para Europa.
