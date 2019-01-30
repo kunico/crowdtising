@@ -72,4 +72,4 @@ Somos [creadores|pomotores|gestores|culturales-y/o-digitales] sociales en primer
 
 ## Ejemplos de anuncios publicitarios
 
-![Ad Examples](https://hashme-ads.surge.sh/AdExamples.svg)
+![Ad Examples](https://hashme-ads.surge.sh/AdExamples.svg).
