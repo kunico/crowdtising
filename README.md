@@ -8,13 +8,12 @@ Por medio de Hashme Ads los gestores culturales, creadores digitales y otros con
 
 Hemos adoptado la metodologías de “Marketing Ético” de ReadTheDocs y CodeFoundAd. Lo que esto significa es que nuestros anuncios:
 
-* No rastrean ni hacen un perfil de los espectadores de anuncios (sin cookies).
-* No vuelve a comercializar ni revender datos de usuarios (no tenemos ninguno)
-* Son relevantes para la audiencia de ---- en el sitio web.
-* Son discretos
+* No rastrean ni hacen un perfil de los visitantes (sin cookies).
+* No vuelve a comercializar ni revender datos de usuarios (no tenemos ninguno).
+* Son relevantes para la audiencia [de] en el sitio web.
+* Son discretos.
 * Son 100% de código abierto.
 * Retribuyen a la comunidad a través de "Crowdtising" [Anuncios Comunitarios].
-
 
 ## ¿Por qué?:
 _____
