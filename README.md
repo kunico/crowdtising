@@ -9,7 +9,7 @@ Por medio de Hashme Ads los gestores culturales, creadores digitales y otros con
   - [Marketing Ético](#marketing-ético)
   - [¿Por qué?](#por-qué)
   - [¿Cómo?](cómo)
-  - [¿Quién Anuncia en Hashme?](Quién Anuncia en Hashme)
+  - [¿Quién Anuncia en Hashme?](quién-anuncia-en-hashme)
   - [Publisher JavaScript Embedding](#publisher-javascript-embedding)
     - [Optional Query String Parameters](#optional-query-string-parameters)
   - [API](#api)
