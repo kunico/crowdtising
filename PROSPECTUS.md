@@ -2,9 +2,9 @@
 
 ## Introducción
 
-Hashme es una plataforma de anunciantes ética, que se enfoca en financiar [la-promoción-cultural-abierta|desarrollo-open-source](actividad-o-proyecto-a-financiar). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [creadores independientes | promotores culturales](audiencias-y-palabras-clave).
+Hashme es una plataforma de anunciantes ética, que se enfoca en financiar [la promoción cultural y el desarrollo open source](actividad-o-proyecto-a-financiar). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [gestión cultural](audiencias-y-palabras-clave).
 
-Creemos que ofreciendo un canal efectivo de marketing para que las empresas que publicitan sus productos y servicios, los [creadores | promotores | gestores-culturales | digitales](audiencias-y-palabras-clave) pueden capitalizar los ingresos por publicidad sin necesidad de que sus visitantes sean rastreados y perfilados.
+Creemos que al proporcionar un canal de marketing eficaz para que las empresas compartan sus productos y servicios, los gestores culturales pueden capitalizar los ingresos de publicidad sin necesidad de que sus visitantes sean rastreados y perfilados.
 
 Tenemos cerca de 11 millones (cantidad-de-visitas-OKR) de visitas a la página al mes, y estamos creciendo aproximadamente 20% mensual. Nuestra primer audiencia son los [creadores | pomotores | gestores | culturales y/o digitales](audiencias-y-palabras-clave), pero estamos expandiendonos hacia audiciencias como: ___________ (audiencias-y-palabras-clave).
 
