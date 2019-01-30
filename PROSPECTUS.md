@@ -1,64 +1,80 @@
-# CrowdTising Advertising 2019 Q1 Prospectus
+# Hashme Advertising 2019 Q1 Prospectos
 
-## Overview
+## Introducción
 
-## Pricing
+Hashme es una plataforma ética de publicidad, que se enfoca en financiar [la-promoción-cultural-abierta|desarrollo-open-source](actividad-o-proyecto-a-financiar|). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [creadores-independientes|pomotores-culturales](audiencias-y-palabras-clave).
 
-* $4.00 eCPM for North American traffic
-* $3.00 eCPM for European traffic
-* $2.50 eCPM for broadly targeted traffic including North America or Europe
-* Other region prices are lower. Please inquire for specifics
+Creemos que ofreciendo un canal efectivo de marketing para que las empresas que publicitan sus productos y servicios, los [creadores|pomotores|gestores-culturales|digitales](audiencias-y-palabras-clave) pueden capitalizar los ingresos por publicidad sin necesidad de que sus visitantes sean rastreados y perfilados.
 
-NOTE: some highly targeted subsets may incur higher prices
+Tenemos cerca de [cantidad-de-visitas](indicador-objetivo-a-corto/largo-plazo) de visitas a la página al mes, y estamos creciendo aproximadamente 20% mensual. Nuestra primer audiencia son los [creadores|pomotores|gestores|culturales-y/o-digitales](audiencias-y-palabras-clave), pero estamos expandiendonos hacia audiciencias como: [lista de audiencias](audiencias-y-palabras-clave).
 
-## Targeting
+Nuestra plataforma sigue las guias de [publicidad ética / ethical advertising](link-a-read-the-docs) que ReadTheDocs estableció. No rastrear a los visitantes, ni perfilarlos, y solamente mostrar anuncios (ads) que son relevantes a la audiencia. Este documento describe cómo podemos ayudarlo a llegar a un público más amplio. ¡Esperamos con interés trabajar con usted!
 
-### Segmentation
+## Precios
 
-#### Topics
+Nuestro modelo de precios está basado en costo por mil (cost per mille - eCPM). Las campañas pueden ser desglosadas en tres diferentes niveles de precios, basado en la audiencia(tageting) especificada. Los descuentos están disponibles para compradores a largo plazo (3+ meses).
 
-Our targeting options include, but are not limited to:
+* $4.00 eCPM para Norte América.
+* $3.00 eCPM para Europa.
+* $2.50 eCPM para tráfico de gran alcance incluyendo América del Norte o  Europa.
+* Los precios de otras regiones son más bajos. Por favor, pregunte por los detalles.
 
-* 
+NOTA: Algunos obetivos (target) altamente específicos pueden incurrir en precios más altos.
 
-### Geographic Segmentation
+## Orientación
 
-We also support geo-targeting to the country level. This allows you to target your
-messages to specific countries of interest, or exclude a set of countries that aren't
-relevant to your ads.
+Ofrecemos Orientación basados en [eventos|actividades|culturales|campañas|sociales|social|venues|cultural|center](palabras-clave) y segmentación geográfica. No damos información a rastreadores de terceros ni tenemos soporte para scripting remoto.
 
-## UTM Params
+### [eventos|actividades|culturales|campañas|sociales]() / Segmentacion por Temas
 
-Each campaign can be configured to redirect to whichever URL you specify. This can include
-UTM parameters. We do automatically place a `utm_referrer` on the redirect URL that includes the referring URL of the property the ad appeared on. This will help you know which publishers are performing the best and which are not.
+Cada sitio web publicante (publisher website) donde ponemos anuncios en general está relacionado a un [eventos|actividades|culturales|campañas|sociales](audiencias-y-palabras-clave) o tema específico. Esto nos permite dirigir cada impresión de anuncio a un [eventos|actividades|culturales|campañas|sociales](audiencias-y-palabras-clave) o tema en el que está interesado el visitante. Este es nuestro principal método de orientación a los visitantes.
 
-## Reported Statistics
+#### Lista de objetivos
 
-We track statistics on our own platform, and report them to you at via the advertiser
-dashboard.
+Nuestra lista de objetivos incuye, pero no se limita a:
 
-We do not track, nor provide, any identifiable information for ad viewers.
+[eventos|actividades|culturales|campañas|sociales]
+Ej: evento cultural con festivales: 
 
-## Limitations
+* SancochoFest.
+* FITS.
+* MeetupJs-lists.
 
-We believe that a major issue with the advertising industry is the tracking of users with
-third-party scripts.
+### Segmentación geográfica
 
-**To address this, we don't allow any third-party scripts to be run in
-our ad placements.**
+También ofrecemos soporte para geo-targeting a nivel país. Esto le permite dirigir su mensaje a países especificos de interés, o excluir un conjunto de países que no le son relevantes para sus anuncios.
 
-## Ad Creatives
+## Parametros UTM
 
-Our publishers have the option of selecting from numerous ad templates to use on their properties.
+Cada campaña puede ser configurada para redireccionar a cualquier URL que ustéd especifique. Esto puede incluir parámetros UTM. Agregamos automáticamente `utm_referrer` a la dirección URL que incluye la URL de referencia de la propiedad en la que apareció el anuncio. Esto le ayudará a saber que publicantes están rindiendo mejor y cuales no. 
 
-Each template uses an ad creative that follows these guidelines:
+## Reporte de estadísticas
 
-* Ad creative **headline** + **body** should not be more than **84 characters long**.
-* Banner image may not be animated.
-* We recomment the use of 👋 emoji when it makes sense, but don't overuse it.
+Hacemos un seguimiento de las estadísticas en nuestra propia plataforma y se las enviamos a través del panel del anunciante.
 
-We are software developers first and foremost. We will help you craft a message that resonates with the developer community if needed.
+No rastreamos, ni proporcionamos, ninguna información identificable para los [espectadores-de-anuncios](ad-viewers).
 
-## Ad Examples
+## Limitaciones
 
-![Ad Examples](http://CrowdTising.io.s3.amazonaws.com/assets/ad-examples.png)
+Creemos que uno de los mayores problemas de la industria de la publicidad es el rastreo de los usuarios con código de terceros.
+
+**Para solucionar esto, no permitimos ningñ**
+
+** Para solucionar este problema, no permitimos que se ejecuten scripts de terceros en
+nuestras colocaciones de anuncios. **
+
+## Anuncios|Creativos publicitarios
+
+Nuestros publicantes tienen la opción de seleccionar entre numerosas plantillas de anuncios publicitarios para usar en sus propiedades (sitios).
+
+Cada plantilla usa un anuncio publicitario que sigue las siguientes pautas:
+
+* Anuncio publicitario **cabecera** + **cuerpo** no debe contener más de **84 caracteres**.
+* La imagen del banner no puede ser animada.
+* Recomendamos el uso de 👋 emoji´s cuando tiene sentido, pero no lo use en exceso.
+
+Somos desarrolladores de software en primer lugar. Le ayudaremos a elaborar un mensaje que resuene con la comunidad de desarrolladores si es necesario.
+
+## Ejemplos de anuncios publicitarios
+
+![Ad Examples](http://hashme.io.s3.amazonaws.com/assets/ad-examples.png)
