@@ -2,7 +2,7 @@
 
 Hashme Ads es una plataforma de marketing de anuncios éticos y discretos que financia a los promotores culturales y otros contribuyentes sociales.
 
-Ayuda a que sus proyectos culturales favoritos prosperen pagando a los gestores la mayoría de todos los ingresos generados.
+Ayudamos a que sus proyectos culturales favoritos prosperen pagando a los gestores la mayoría de todos los ingresos generados.
 
 ## Tabla de contenidos
 
