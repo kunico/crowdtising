@@ -6,7 +6,7 @@ Hashme es una plataforma de anunciantes ética, que se enfoca en financiar [la p
 
 Creemos que al proporcionar un canal de marketing eficaz para que las empresas compartan sus productos y servicios, los gestores culturales pueden capitalizar los ingresos de publicidad sin necesidad de que sus visitantes sean rastreados y perfilados.
 
-Tenemos cerca de 11 millones (cantidad-de-visitas-OKR) de visitas a la página al mes, y estamos creciendo aproximadamente 20% mensual. Nuestra primer audiencia son los [creadores | pomotores | gestores | culturales y/o digitales](audiencias-y-palabras-clave), pero estamos expandiendonos hacia audiciencias como: ___________ (audiencias-y-palabras-clave).
+Tenemos cerca de 11 millones (cantidad-de-visitas-OKR) de visitas a la página al mes, y estamos creciendo aproximadamente 20% mensual. Nuestra primer audiencia son los [Gestores de Festivales](audiencias-y-palabras-clave), pero estamos expandiendonos hacia audiciencias como: [](audiencias-y-palabras-clave).
 
 Nuestra plataforma sigue las guias de [publicidad ética / ethical advertising](link-a-read-the-docs) que ReadTheDocs estableció. No rastrear a los visitantes, ni perfilarlos, y solamente mostrar anuncios que son relevantes a la audiencia. Este documento describe cómo podemos ayudarlo a llegar a un público más amplio. ¡Esperamos con interés trabajar con usted!
 
