@@ -80,17 +80,19 @@ Ayudamos a que sus proyectos culturales favoritos prosperen pagando a los gestor
 
 ## Enums
 
+## Development Environment
+
+### Database Seeds
+
 ## Code Standards
 
 ## Deployment
-
 ### Preboot
-
 ### Scheduler
-
 ### Database
 
 ## Maxmind
 
-## Instrumentation
+## Candidates for Modules extraction
 
+## Contributors
