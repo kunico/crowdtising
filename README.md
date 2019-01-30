@@ -54,7 +54,7 @@ Funcionalmente, la app tiene  has varias características clave:
 * Envío del problema financiada / Flujo de aceptación: interfaz entre la aplicación y web3. 
 * API - HTTPS API
 * Bot - El HashmeBot
-* [More about how/why to interact with web3 here](https://gitcoin.co/web3).
+* [Más acerca de por qué/cómo interactuar con web3 aquí](https://gitcoin.co/web3).
 
 Técnicamente, el sistema está diseñado así:
 
