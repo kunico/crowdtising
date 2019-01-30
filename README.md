@@ -4,7 +4,7 @@ Hashme Ads es una plataforma de marketing de anuncios éticos y discretos que fi
 
 Hemos adoptado la metodologías de “Marketing Ético” de ReadTheDocs y CodeFoundAd.
 
-Por medio de Hashme Ads los gestores culturales, creadores digitales y otros contribuyentes a las comunidades abiertas, pueden generar un ingreso lateral de manera sostenible, acompañados por ecosistema open source.
+Por medio de Hashme Ads los gestores culturales, creadores digitales y otros contribuyentes a las comunidades abiertas, pueden generar un ingreso lateral de manera sostenible, acompañados por un ecosistema open source.
 
 # Crowdtising
 
