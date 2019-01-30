@@ -1,5 +1,5 @@
 FORMAT: 1A9
-HOST: api.crowdtising.org
+HOST: api.hashme-ads.org
 CrowdTising: Hashme Ads
 
 # Hashme Ads
