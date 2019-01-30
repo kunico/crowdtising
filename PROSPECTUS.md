@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Hashme es una plataforma de anunciantes ética, que se enfoca en financiar [la promoción cultural y el desarrollo open source](actividad-o-proyecto-a-financiar). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [gestión cultural](audiencias-y-palabras-clave).
+Hashme es una plataforma de anunciantes ética, que se enfoca en financiar [la promoción cultural y el desarrollo abierto](actividad-o-proyecto-a-financiar). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [gestión cultural y desarrollo abierto](audiencias-y-palabras-clave).
 
 Creemos que al proporcionar un canal de marketing eficaz para que las empresas compartan sus productos y servicios, los gestores culturales pueden capitalizar los ingresos de publicidad sin necesidad de que sus visitantes sean rastreados y perfilados.
 
