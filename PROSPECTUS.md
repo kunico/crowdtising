@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Hashme es una plataforma ética de publicidad, que se enfoca en financiar [la-promoción-cultural-abierta|desarrollo-open-source](actividad-o-proyecto-a-financiar|). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [creadores-independientes|pomotores-culturales](audiencias-y-palabras-clave).
+Hashme es una plataforma de anunciantes ética, que se enfoca en financiar [la-promoción-cultural-abierta|desarrollo-open-source](actividad-o-proyecto-a-financiar|). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [creadores-independientes|pomotores-culturales](audiencias-y-palabras-clave).
 
 Creemos que ofreciendo un canal efectivo de marketing para que las empresas que publicitan sus productos y servicios, los [creadores|pomotores|gestores-culturales|digitales](audiencias-y-palabras-clave) pueden capitalizar los ingresos por publicidad sin necesidad de que sus visitantes sean rastreados y perfilados.
 
@@ -21,15 +21,15 @@ Nuestro modelo de precios está basado en costo por mil (cost per mille - eCPM).
 
 NOTA: Algunos obetivos (target) altamente específicos pueden incurrir en precios más altos.
 
-## Orientación
+## Targeting
 
-Ofrecemos Orientación basados en [eventos|actividades|culturales|campañas|sociales|social|venues|cultural|center](palabras-clave) y segmentación geográfica. No damos información a rastreadores de terceros ni tenemos soporte para scripting remoto.
+Ofrecemos targeting basados en [eventos|actividades|culturales|campañas|sociales|social|venues|cultural|center](palabras-clave) y segmentación geográfica. No damos información a rastreadores de terceros ni tenemos soporte para scripting remoto.
 
 ### [eventos|actividades|culturales|campañas|sociales]() / Segmentacion por Temas
 
-Cada sitio web publicante (publisher website) donde ponemos anuncios en general está relacionado a un [eventos|actividades|culturales|campañas|sociales](audiencias-y-palabras-clave) o tema específico. Esto nos permite dirigir cada impresión de anuncio a un [eventos|actividades|culturales|campañas|sociales](audiencias-y-palabras-clave) o tema en el que está interesado el visitante. Este es nuestro principal método de orientación a los visitantes.
+Cada sitio web publicante donde ponemos anuncios en general está relacionado a un [eventos|actividades|culturales|campañas|sociales](audiencias-y-palabras-clave) o tema específico. Esto nos permite dirigir cada impresión de anuncio a un [eventos|actividades|culturales|campañas|sociales](audiencias-y-palabras-clave) o tema en el que está interesado el visitante. Este es nuestro principal método de orientación a los visitantes.
 
-#### Lista de objetivos
+#### Lista de targets
 
 Nuestra lista de objetivos incuye, pero no se limita a:
 
@@ -50,26 +50,21 @@ Cada campaña puede ser configurada para redireccionar a cualquier URL que usté
 
 ## Reporte de estadísticas
 
-Hacemos un seguimiento de las estadísticas en nuestra propia plataforma y se las enviamos a través del panel del anunciante.
-
-No rastreamos, ni proporcionamos, ninguna información identificable para los [espectadores-de-anuncios](ad-viewers).
+Hacemos un seguimiento de las estadísticas en nuestra propia plataforma y se las enviamos a través del panel del anunciante. No rastreamos, ni proporcionamos, ninguna información identificable para los visitantes).
 
 ## Limitaciones
 
 Creemos que uno de los mayores problemas de la industria de la publicidad es el rastreo de los usuarios con código de terceros.
 
-**Para solucionar esto, no permitimos ningñ**
+**Para solucionar este problema, no permitimos que se ejecuten scripts de terceros en nuestras colocaciones de anuncios.**
 
-** Para solucionar este problema, no permitimos que se ejecuten scripts de terceros en
-nuestras colocaciones de anuncios. **
+## Anuncios publicitarios
 
-## Anuncios|Creativos publicitarios
+Nuestros publicantes tienen la opción de seleccionar entre numerosas plantillas de anuncios para usar en sus propiedades (sitios).
 
-Nuestros publicantes tienen la opción de seleccionar entre numerosas plantillas de anuncios publicitarios para usar en sus propiedades (sitios).
+Cada plantilla usa un anuncio que sigue las siguientes pautas:
 
-Cada plantilla usa un anuncio publicitario que sigue las siguientes pautas:
-
-* Anuncio publicitario **cabecera** + **cuerpo** no debe contener más de **84 caracteres**.
+* La **cabecera** + **cuerpo** del anuncio no debe contener más de **84 caracteres**.
 * La imagen del banner no puede ser animada.
 * Recomendamos el uso de 👋 emoji´s cuando tiene sentido, pero no lo use en exceso.
 
