@@ -2,17 +2,17 @@
 
 ## Introducción
 
-Hashme es una plataforma de anunciantes ética, que se enfoca en financiar [la-promoción-cultural-abierta|desarrollo-open-source](actividad-o-proyecto-a-financiar|). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [creadores-independientes|pomotores-culturales](audiencias-y-palabras-clave).
+Hashme es una plataforma de anunciantes ética, que se enfoca en financiar [la-promoción-cultural-abierta|desarrollo-open-source](actividad-o-proyecto-a-financiar). Cerca del 65% de todos los ingresos brutos se devuelve a las comunidades de [creadores independientes | promotores culturales](audiencias-y-palabras-clave).
 
-Creemos que ofreciendo un canal efectivo de marketing para que las empresas que publicitan sus productos y servicios, los [creadores|pomotores|gestores-culturales|digitales](audiencias-y-palabras-clave) pueden capitalizar los ingresos por publicidad sin necesidad de que sus visitantes sean rastreados y perfilados.
+Creemos que ofreciendo un canal efectivo de marketing para que las empresas que publicitan sus productos y servicios, los [creadores | promotores | gestores-culturales | digitales](audiencias-y-palabras-clave) pueden capitalizar los ingresos por publicidad sin necesidad de que sus visitantes sean rastreados y perfilados.
 
-Tenemos cerca de [cantidad-de-visitas](indicador-objetivo-a-corto/largo-plazo) de visitas a la página al mes, y estamos creciendo aproximadamente 20% mensual. Nuestra primer audiencia son los [creadores|pomotores|gestores|culturales-y/o-digitales](audiencias-y-palabras-clave), pero estamos expandiendonos hacia audiciencias como: [lista de audiencias](audiencias-y-palabras-clave).
+Tenemos cerca de 11 millones (cantidad-de-visitas-OKR) de visitas a la página al mes, y estamos creciendo aproximadamente 20% mensual. Nuestra primer audiencia son los [creadores | pomotores | gestores | culturales y/o digitales](audiencias-y-palabras-clave), pero estamos expandiendonos hacia audiciencias como: ___________ (audiencias-y-palabras-clave).
 
-Nuestra plataforma sigue las guias de [publicidad ética / ethical advertising](link-a-read-the-docs) que ReadTheDocs estableció. No rastrear a los visitantes, ni perfilarlos, y solamente mostrar anuncios (ads) que son relevantes a la audiencia. Este documento describe cómo podemos ayudarlo a llegar a un público más amplio. ¡Esperamos con interés trabajar con usted!
+Nuestra plataforma sigue las guias de [publicidad ética / ethical advertising](link-a-read-the-docs) que ReadTheDocs estableció. No rastrear a los visitantes, ni perfilarlos, y solamente mostrar anuncios que son relevantes a la audiencia. Este documento describe cómo podemos ayudarlo a llegar a un público más amplio. ¡Esperamos con interés trabajar con usted!
 
 ## Precios
 
-Nuestro modelo de precios está basado en costo por mil (cost per mille - eCPM). Las campañas pueden ser desglosadas en tres diferentes niveles de precios, basado en la audiencia(tageting) especificada. Los descuentos están disponibles para compradores a largo plazo (3+ meses).
+Nuestro modelo de precios está basado en costo por mil (cost per mille - eCPM). Las campañas pueden ser desglosadas en tres diferentes niveles de precios, basado en la audiencia (tageting) especificada. Los descuentos están disponibles para compradores a largo plazo (3+ meses).
 
 * $4.00 eCPM para Norte América.
 * $3.00 eCPM para Europa.
@@ -23,17 +23,17 @@ NOTA: Algunos obetivos (target) altamente específicos pueden incurrir en precio
 
 ## Targeting
 
-Ofrecemos targeting basados en [eventos|actividades|culturales|campañas|sociales|social|venues|cultural|center](palabras-clave) y segmentación geográfica. No damos información a rastreadores de terceros ni tenemos soporte para scripting remoto.
+Ofrecemos targeting basados en [eventos | actividades | culturales | campañas | sociales | social | venues | cultural | center ](palabras-clave) y segmentación geográfica. No damos información a rastreadores de terceros ni tenemos soporte para scripting remoto.
 
-### [eventos|actividades|culturales|campañas|sociales]() / Segmentacion por Temas
+### Eventos Culturales / Segmentacion por Temas
 
-Cada sitio web publicante donde ponemos anuncios en general está relacionado a un [eventos|actividades|culturales|campañas|sociales](audiencias-y-palabras-clave) o tema específico. Esto nos permite dirigir cada impresión de anuncio a un [eventos|actividades|culturales|campañas|sociales](audiencias-y-palabras-clave) o tema en el que está interesado el visitante. Este es nuestro principal método de orientación a los visitantes.
+Cada sitio web publicante donde ponemos anuncios en general está relacionado a un [ eventos | actividad | cultural | campaña | social](audiencias-y-palabras-clave) o tema específico. Esto nos permite dirigir cada impresión de anuncio a un [evento | actividad |cultural | campañas | social](audiencias-y-palabras-clave) o tema en el que está interesado el visitante. Este es nuestro principal método de orientación a los visitantes.
 
-#### Lista de targets
+#### Lista de objetivos
 
 Nuestra lista de objetivos incuye, pero no se limita a:
 
-[eventos|actividades|culturales|campañas|sociales]
+[ evento | actividad | cultural | campañas | sociales ]
 Ej: evento cultural con festivales: 
 
 * SancochoFest.
@@ -62,13 +62,13 @@ Creemos que uno de los mayores problemas de la industria de la publicidad es el 
 
 Nuestros publicantes tienen la opción de seleccionar entre numerosas plantillas de anuncios para usar en sus propiedades (sitios).
 
-Cada plantilla usa un anuncio que sigue las siguientes pautas:
+Cada anuncio usa una plantilla que sigue las siguientes pautas:
 
 * La **cabecera** + **cuerpo** del anuncio no debe contener más de **84 caracteres**.
 * La imagen del banner no puede ser animada.
 * Recomendamos el uso de 👋 emoji´s cuando tiene sentido, pero no lo use en exceso.
 
-Somos [creadores|pomotores|gestores|culturales-y/o-digitales] sociales en primer lugar. Le ayudaremos a elaborar un mensaje que resuene con la comunidad si es necesario.
+Somos [ creadores | promotores | gestores | culturales y/o digitales] sociales en primer lugar. Le ayudaremos a elaborar un mensaje que resuene con la comunidad si es necesario.
 
 ## Ejemplos de anuncios publicitarios
 
